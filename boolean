@@ -1,0 +1,12 @@
+<c:if test="${not empty error}">
+    <div class="alert alert-error text-center">
+        ${error}
+        <button class="close" data-dismiss="alert"></button>
+    </div>
+</c:if>
+
+Tested: pass
+http://ResidencePermitTurkey.com
+http://TurkishWorkPermit
+http://TurkeyResidencePermit.com
+http://TurkishResidencePermit.com
